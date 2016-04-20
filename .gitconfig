@@ -1,4 +1,9 @@
 [user]
-	name = Karl Bertin
 	email = karlbmarki@gmail.com
-
+	name = Jack Helton
+[push]
+	default = simple
+[filter "lfs"]
+	smudge = git-lfs smudge %f
+	required = true
+	clean = git-lfs clean %f
