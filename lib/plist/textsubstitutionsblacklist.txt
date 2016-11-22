@@ -24,6 +24,7 @@ HT				hors taxes
 ie, cad			id est, c'est-à-dire
 kg				kilogram
 km				kilometre
+lv, nv			level, niveau
 MA				Moyen-Âge
 min				minute
 Mlle, Mlles		mademoiselle, mesdemoiselles
